@@ -1,0 +1,24 @@
+export type RtMRIRecord = {
+	date: number;
+	file: string;
+	start: number;
+	end: number;
+	text: string;
+	jtext: string;
+	phoneme: string;
+	subject: string;
+	session: string;
+	clazz: string;
+	slide2: string;
+	slide: string;
+	ser: number;
+	tag: string;
+	fps: number;
+	gender: string;
+	bitrh_year: number;
+	birht_place: string;
+	dialect: string;
+	subject_id: string;
+	id: number;
+	trimmed_path: string;
+};
