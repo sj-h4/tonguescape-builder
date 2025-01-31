@@ -1,6 +1,6 @@
 # Tonguscape Dataset Builder
 
-This is a dataset builder for Tonguscape introduced in [Tonguescape: Exploring Language Models Understanding of Vowel Articulation (NAACL 2025)]().
+This is a dataset builder for Tonguscape introduced in [Tonguescape: Exploring Language Models Understanding of Vowel Articulation (NAACL 2025)](https://arxiv.org/abs/2501.17643).
 
 This dataset is segmented by phoneme from [rtMRIDB](https://research.nii.ac.jp/src/en/rtMRIDB.html).
 The phoneme is defined in original DB.
